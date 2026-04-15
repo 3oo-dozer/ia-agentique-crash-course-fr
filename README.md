@@ -4,22 +4,7 @@
 
 **Tout ce que vous devez savoir sur l'IA agentique dans le monde réel**
 
-*Créé par [Aishwarya Reganti](https://www.linkedin.com/in/areganti/) & [Kiriti Badam](https://www.linkedin.com/in/sai-kiriti-badam/)*
-
----
-
-## ❗❗À lire avant de commencer le cours, car de nombreux influenceurs ont partagé des informations incorrectes
-
-**Affirmation : Ce cours a été enseigné au MIT et à Oxford**<br/>
-Réalité : Les instructeurs ont enseigné des programmes professionnels en IA au MIT et à Oxford, mais ce cours spécifique n'y a jamais été proposé.
-
-**Affirmation : Ce cours coûte 2 500 USD et est désormais gratuit**<br/>
-Réalité : Il s'agit d'un cours d'introduction court, l'intitulé indique clairement « cours intensif ». Nous ne l'aurions jamais tarifé à 2 500 $ ; il a toujours été gratuit.
-
-**Affirmation : Ce cours va changer votre vie et garantir un emploi**<br/>
-Réalité : Ce cours vous offre une solide entrée dans le sujet, renforce votre confiance et vous donne de bonnes bases. Ce n'est pas un ticket magique et nous ne promettons jamais de tels résultats.
-
-Nous avons mis beaucoup de soin à le rendre simple, utile et vraiment accessible aux débutants. Nous sommes ravis qu'il attire l'attention, mais nous voulons que les gens s'y engagent pour les bonnes raisons, et non pour des promesses que nous n'avons jamais faites.
+*Créé initialement par [Aishwarya Reganti](https://www.linkedin.com/in/areganti/) & [Kiriti Badam](https://www.linkedin.com/in/sai-kiriti-badam/) , deux Top voices du monde de l'IA, ce cours vise à être simple, utile et une porte d'entrée au sujet de l'IA Agentique.*
 
 ---
 ## 📚 Parties du cours
