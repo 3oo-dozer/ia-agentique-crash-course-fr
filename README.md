@@ -1,59 +1,92 @@
-# [FR] Cours intensif IA Agentique
+# Cours Intensif sur l'IA Agentique
 
-Tout ce que vous devez savoir sur l'IA agentique dans le monde réel 🤖🌍.
+![Cours Intensif sur l'IA Agentique](./hero-image.png)
 
-Cours tiré du Repo [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) d'aishwaryanr et traduit en Français.
+**Tout ce que vous devez savoir sur l'IA agentique dans le monde réel**
 
-## Introduction
+*Créé par [Aishwarya Reganti](https://www.linkedin.com/in/areganti/) & [Kiriti Badam](https://www.linkedin.com/in/sai-kiriti-badam/)*
 
-Créé initialement par [Aishwarya Reganti](https://www.linkedin.com/in/areganti/) & [Kiriti Badam](https://www.linkedin.com/in/sai-kiriti-badam/), deux Top voices du monde de l'IA, ce cours vise à être simple, utile et une porte d'entrée au sujet de l'IA Agentique.
+---
 
-## Sommaire
+## ❗❗À lire avant de commencer le cours, car de nombreux influenceurs ont partagé des informations incorrectes
 
-### Partie 1 : Les Agents IA, c'est quoi réellement ?
+**Affirmation : Ce cours a été enseigné au MIT et à Oxford**<br/>
+Réalité : Les instructeurs ont enseigné des programmes professionnels en IA au MIT et à Oxford, mais ce cours spécifique n'y a jamais été proposé.
 
-Comprendre les différences fondamentales entre IA générative et IA Agentique, leurs capacités de base et leurs applications concrètes.
+**Affirmation : Ce cours coûte 2 500 USD et est désormais gratuit**<br/>
+Réalité : Il s'agit d'un cours d'introduction court, l'intitulé indique clairement « cours intensif ». Nous ne l'aurions jamais tarifé à 2 500 $ ; il a toujours été gratuit.
 
-### Partie 2 : Les 4 types de systèmes Agentiques (Et quand utiliser lequel)
+**Affirmation : Ce cours va changer votre vie et garantir un emploi**<br/>
+Réalité : Ce cours vous offre une solide entrée dans le sujet, renforce votre confiance et vous donne de bonnes bases. Ce n'est pas un ticket magique et nous ne promettons jamais de tels résultats.
 
-Explorez les systèmes basés sur des règles (RPA), les agents à flux de travail (Agents Workflow), les agents semi-autonomes et les agents autonomes avec cadres de décision.
+Nous avons mis beaucoup de soin à le rendre simple, utile et vraiment accessible aux débutants. Nous sommes ravis qu'il attire l'attention, mais nous voulons que les gens s'y engagent pour les bonnes raisons, et non pour des promesses que nous n'avons jamais faites.
 
-### Partie 3 : C'est quoi les outils en IA ?
+---
+## 📚 Parties du cours
 
-Découvrez l'intégration des modèles IA, les connexions API, l'écosystème des outils et le développement d'outils custom.
+### [Partie 1 : C'est quoi les agents IA ?](./part1_what_are_ai_agents_anyway.md)
+Comprendre les différences fondamentales entre l'IA générative et l'IA agentique, les capacités essentielles et les applications concrètes.
 
-### Partie 4 : C'est quoi un RAG et que signifie le rendre Agentique ?
+### [Partie 2 : Les 4 types de systèmes agentiques (et quand utiliser lequel)](./part2_the_4_types_of_agentic_systems.md)
+Explorez les agents à flux de travail, les agents semi-autonomes, les systèmes basés sur des règles et les agents autonomes avec des cadres de décision.
 
-Plongée dans les RAG — Retrieval-Augmented Generation (Génération à enrichissement contextuel) — RAGs Traditionnels vs Agentiques et les patterns d'implémentation.
+### [Partie 3 : C'est quoi les outils en IA ?](./part3_what_are_tools_in_ai.md)
+Découvrez l'intégration des modèles IA, les connexions API, les écosystèmes d'outils et le développement d'outils personnalisés.
 
-### Partie 5 : C'est quoi MCP et pourquoi devriez-vous vous en soucier ?
+### [Partie 4 : C'est quoi le RAG et qu'est-ce que ça signifie de le rendre agentique ?](./part4_what_is_rag_and_agentic.md)
+Plongée en profondeur dans la Génération Augmentée par Récupération, le RAG traditionnel vs agentique et les patterns d'implémentation.
 
-Comprendre le Model Context Protocol (MCP), les stratégies d'intégration des modèles IA et la mise en œuvre en entreprise.
+### [Partie 5 : C'est quoi le MCP et pourquoi s'y intéresser ?](./part5_what_is_mcp_and_why_care.md)
+Comprendre le protocole de contexte de modèle, les stratégies d'intégration des modèles IA et la mise en œuvre en entreprise.
 
-### Partie 6 : Plannification dans les Agents et modèles à raisonnement
+### [Partie 6 : La planification dans les agents + les modèles de raisonnement](./part6_planning_in_agents_reasoning_models.md)
+Stratégies de planification des agents, intégration des modèles de raisonnement et capacités de raisonnement avancées.
 
-Stratégies de plannification des Agents, intégration de modèles à raisonnement et capacités de raisonnement avancées.
+### [Partie 7 : La mémoire dans les agents](./part7_memory_in_agents.md)
+Systèmes de mémoire à court et long terme, patterns d'architecture et optimisation des performances.
 
-### Partie 7 : Mémoire dans les Agents
+### [Partie 8 : Les systèmes multi-agents](./part8_multi_agent_systems.md)
+Architecture multi-agents, patterns hiérarchiques, stratégies de coordination et considérations de scalabilité.
 
-Systèmes de mémoire à court et long-terme, patterns d'architecture et optimisation des performances.
-
-### Partie 8 : Systèmes multi-Agent
-
-Architecture Multi-Agent, patterns hiérarchiques, stratégies de coordination et de scalabilité.
-
-### Partie 9 : Systèmes Agentiques du monde réel (Et comment ça fonctionne en interne)
-
+### [Partie 9 : Les systèmes agentiques en conditions réelles (sous le capot)](./part9_real_world_agentic_systems.md)
 Études de cas de systèmes en production, patterns d'architecture et enseignements tirés d'implémentations en entreprise.
 
-### Partie 10 : Leçons tirées des Agents IA et perspectives d'avenir
+### [Partie 10 : Leçons sur les agents IA et perspectives](./part10_ai_agent_lessons_whats_ahead.md)
+Derniers développements, tendances futures, feuille de route du secteur et technologies émergentes dans l'IA agentique.
 
-Dernières innovations, futures trends, Roadmap de l'industrie et technologies émergeantes de l'IA Agentique.
+---
 
-## 🚀️ Démarrer l'aprentissage
+## 🎥 Conférences vidéo avancées
 
-Naviguer à la Partie 1 pour commencer votre voyage dans le mondre de l'IA Agentique
+### Conception de systèmes et applications
 
-Partie 1 : Les Agents IA, c'est quoi réellement ?
+- [Maîtriser la conception de systèmes d'IA générative](https://maven.com/p/8c3221/master-generative-ai-system-design)
+- [Pourquoi les agents IA ne suffisent pas pour les applications réelles](https://maven.com/p/20f0ed/why-ai-agents-aren-t-enough-for-real-world-applications)
+- [Concevoir des applications IA agentiques pour des cas d'usage en entreprise](https://maven.com/p/497d05/designing-agentic-ai-applications-for-enterprise-use-cases)
+- [Développer des applications IA agentiques en 2025](https://maven.com/p/82345a/building-agentic-ai-applications-in-2025)
+- [Évaluer les applications IA agentiques : au-delà des vérifications intuitives](https://maven.com/p/6f0e97/evaluating-agentic-ai-applications-beyond-vibe-checks)
 
-Bon apprentissage !
+### Produit et mise en œuvre en entreprise
+
+- [Produits natifs en IA : ce que chaque chef de produit doit savoir et faire](https://maven.com/p/9a34b0/ai-native-products-what-every-pm-needs-to-know-and-do)
+- [Concevoir des systèmes IA agentiques pour l'entreprise - Partie 1](https://maven.com/p/466e22/1-designing-agentic-ai-systems-for-enterprise-use-cases)
+- [Concevoir des systèmes IA agentiques pour l'entreprise - Partie 2](https://maven.com/p/a0cdf1/2-designing-agentic-ai-systems-for-enterprise-use-cases)
+
+### Sujets avancés et mises à jour T2 2025
+
+- [Développer des applications IA agentiques : mises à jour T2 2025 - Partie 1](https://maven.com/p/b8470c/1-building-agentic-ai-applications-2025-q2-updates)
+- [Les protocoles IA 101 : ce que vous devez savoir sur MCP, A2A, etc.](https://maven.com/p/e2b5db/2-ai-protocols-101-what-you-should-know-about-mcp-a2a-etc)
+- [Systèmes IA mono-agent vs multi-agents](https://maven.com/p/0e0e15/3-single-vs-multi-agent-ai-systems)
+- [Ne construisez pas des produits IA comme des logiciels traditionnels](https://maven.com/p/88a325/don-t-build-ai-products-like-traditional-software)
+
+---
+
+## 🚀 Par où commencer
+
+Rendez-vous à la **Partie 1** pour commencer votre voyage dans le monde de l'IA agentique !
+
+[🎯 Commencer par la Partie 1 : C'est quoi les agents IA ?](./part1_what_are_ai_agents_anyway.md)
+
+---
+
+**Bon apprentissage !** 🎉
